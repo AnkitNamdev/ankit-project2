@@ -1,0 +1,228 @@
+*{
+    box-sizing: border-box;
+}
+header .active a{
+    background-color: red!important;
+}
+.fa-google-plus{
+    color: #F45D01!important;
+}
+#mymodal .btn{
+    background-color:  #2D7DD2!important;
+}
+.dropdown-item:hover{
+    background-color: gray!important;
+    color: white;
+}
+.footer .article h5{
+    font-size: 15px;
+}
+.article img{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
+.card:hover{
+    box-shadow: 2px 2px 10px grey!important;
+    cursor: pointer;
+}
+.navbar{
+    background-color:#2D7DD2!important;
+}
+
+.carousel-caption .btn{
+    background-color: #2D7DD2!important;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    border: 0px;
+}
+.carousel-caption .btn:hover{
+    background-color: #F45D01!important;
+}
+.modal-body .btn{
+    background-color: #fd484e;
+    color: white;
+    padding: 10px;
+    width: 130px;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 0px;
+}
+.navbar-nav .nav-item{
+    font-weight: bold;
+    font-size: 18px;
+}
+.navbar-nav .nav-item:hover{
+    background-color: white;
+    border-radius: 6px;
+}
+.rowsetting .btn{
+    background-color: #2D7DD2!important;
+    color: white;
+    padding: 15px;
+    width: 150px;
+    margin-top: 10px;
+    font-weight: bold;
+    border-radius: 0px;
+    border: 0px;
+}
+.rowsetting .btn:hover{
+    color: white;
+} 
+.passion .card-title:hover{
+    cursor: pointer;
+    color: #F45D01;
+}
+
+/* .........................................ourquality */
+
+.bgimg{
+    background-image: url('../images/35.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+}
+.bgimg img{
+    width: 100%;
+}
+.bgimg .center{
+    margin-top: 400px;
+    color: #e2e2e2;
+}
+.ourcustomer{
+    justify-content: center;
+}
+
+
+/* ....................form */
+
+.form{
+    width: 600px;
+}
+.form button{
+    width: 100%;
+    background-color: #2D7DD2!important;
+    padding: 10px;
+    font-weight: bold;
+    border: 0px;
+}
+.form a{
+    text-decoration: none;
+    color: #2D7DD2!important;
+}
+.form .btn{
+    border: 0px solid #2D7DD2!important;
+}
+
+/* ..............................ABOUT US */
+
+.section{
+    background-image: url('../images/7.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.home{
+    margin-top: 10px;
+    margin: auto;
+    display: block;
+    width: 200px;
+    border: 1px solid grey;
+    border-radius: 50px;
+    justify-content: center;
+    font-size: 18px;
+    background-color: white;
+    box-shadow: 2px 2px 10px grey;
+}
+.home .btn{
+    border: 0px;
+}
+.windows{
+    color: #2D7DD2;
+}
+.ourteam img{
+    border-radius: 10px;
+    height: 350px;
+}
+
+/*................................contact us*/
+
+.contact{
+    background-image: url('../images/21.jpeg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.ourteam img:hover{
+    opacity: 0.7;
+}
+/* .sendmessage{
+    margin-right: 100px;
+} */
+.form-section{
+    display: block;
+    margin: auto;
+}
+form input{
+    border-radius: 0px!important;
+}
+form .btn{
+    background-color: #2D7DD2!important;
+    border-radius: 0px;
+    border: 0px;
+}
+.info{
+    margin: auto;
+    display: block;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 2px 2px 10px grey;
+    cursor: pointer;
+}
+.form-section{
+    box-shadow: 2px 2px 10px grey;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* .......................services.html */
+
+.services .contact{
+    background-image: url('../images/11.jpeg');
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+
+}
+
+
+/* ..........................chooseus */
+
+.maintenance{
+    background-color: #febf00;
+    padding: 10px;
+}
+.chooseus .icon{
+    border-radius: 50%;
+    background-color: #2D7DD2;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    padding: 9px;
+    margin-top: 3px;
+}
+.chooseus .topic{
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.chooseus p{
+    margin-left: 45px;
+    color: black;
+}
